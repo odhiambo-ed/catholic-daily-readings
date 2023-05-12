@@ -12,7 +12,9 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2",
+    "generate-gitignore": "^0.2.6",
     "get-catholic-daily-readings": "^1.3.6",
+    "gitignore": "^0.7.0",
     "helmet": "^7.0.0",
     "morgan": "^1.10.0"
   }
